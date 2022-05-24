@@ -1,9 +1,9 @@
 {
-  "TOKEN": "OTUzNDkwNDYxMjE2MDkyMjAx.Gc5mlD.HPXmK-Uf5yauXc45KsDPL2qrEupQE0r2uSF9po",
-  "MAX_PLAYLIST_SIZE": 20,
+  "TOKEN": "OTUzNDkwNDYxMjE2MDkyMjAx.GbdmOt.tuyD_H727zLgeSjeoQ8cR_ZbRVxuXXxKO9echk",
+  "MAX_PLAYLIST_SIZE": 10,
   "PREFIX": "!",
   "PRUNING": false,
   "LOCALE": "en",
-  "STAY_TIME": 0,
+  "STAY_TIME": 30,
   "DEFAULT_VOLUME": 100
 }
