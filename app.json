@@ -1,0 +1,7 @@
+{
+  "name": "Loozik",
+  "description": "Discord Music Bot built with discord.js",
+  "repository": "https://github.com/SajuTrident/loozik-music",
+  "logo": "https://drive.google.com/uc?export=download&id=1Kq-6JEyVbbt563EjD5DKSGQlG9m3teqy",
+  "keywords": ["discord", "loozik", "music", "bot"]
+}
