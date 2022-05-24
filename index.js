@@ -2,7 +2,6 @@ import { Client, Collection, Intents } from "discord.js";
 import { config } from "./utils/config.js";
 import { importCommands } from "./utils/importCommands.js";
 import { messageCreate } from "./utils/messageCreate.js";
-import keepAlive from "./server.js";
 const { TOKEN, PREFIX } = config;
 
 const client = new Client({
@@ -40,5 +39,3 @@ importCommands(client);
  * Message event
  */
 messageCreate(client);
-
-keepAlive();
