@@ -3,11 +3,11 @@
   "version": "1.2.2",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
-  "author": "Erit Islami <eritislami@gmail.com>",
+  "author": "Sajad pp <dev.fivo@gmail.com>",
   "private": true,
-  "homepage": "https://github.com/eritislami/evobot",
-  "repository": "github:eritislami/evobot",
-  "bugs": "https://github.com/eritislami/evobot/issues",
+  "homepage": "https://github.com/SajuTrident/loozik",
+  "repository": "github:SajuTrident/loozik",
+  "bugs": "https://github.com/SajuTrident/loozik/issues",
   "engines": {
     "node": ">=16.9.0"
   },
